@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">
+        com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior
+    </string>
+
+    <string name="action_share">Share</string>
+    <string name="toolbar_image_description">toolbar_description</string>
+    <string name="thumbnail_image_description">thumbnail_image_description</string>
+    <string name="connectivity_msg">Please check your Internet connection!</string>
+
+</resources>

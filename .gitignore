@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/XYZReader/build/
+/XYZReader/build/intermediates/javac/debug/classes/
